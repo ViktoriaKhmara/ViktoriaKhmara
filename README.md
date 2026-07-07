@@ -1,97 +1,166 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Profile Banner" width="90%">
+  <img src="assets/profile-banner.png" width="100%" alt="Profile Banner">
+</p>
+
+<h1 align="center">
+Hi, I'm Victoria Khmara 👋
+</h1>
+
+<p align="center">
+Software Developer • Backend • AI • Desktop Applications
+</p>
+
+<p align="center">
+Building educational software and exploring artificial intelligence.
+</p>
+
+<p align="center">
+<a href="https://t.me/Toryanna">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://vk.ru/victoriakhmara">
+<img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=ViktoriaKhmara&style=for-the-badge&color=blue">
 </p>
 
 ---
 
-## 👋 About Me
+# 💻 About
 
-I'm a **Junior Software Developer** focused on building practical, user-friendly applications.
+I'm a software developer passionate about creating applications that combine clean architecture, modern technologies and intuitive user experience.
 
-I am interested in **backend development**, **desktop applications**, **databases**, and **AI-powered educational software**.
+Currently, my primary interests include:
+
+- Backend Development
+- Artificial Intelligence
+- Desktop Applications
+- Database Design
+- Educational Software
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Current Project
+
+## 🎮 SpeedTypingNovel
+
+AI-powered educational visual novel for learning touch typing.
+
+### Main features
+
+- Story-driven gameplay
+- AI-generated educational feedback
+- SQLite database
+- Local LLM via Ollama
+- Statistics & Progress Tracking
+- Chapter Unlock System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+
+<a href="https://github.com/ViktoriaKhmara/SpeedTypingNovel">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ViktoriaKhmara&repo=SpeedTypingNovel&theme=github_dark&hide_border=true">
+
+</a>
+
 </p>
 
 ---
 
-## 💡 Areas of Interest
+# 🛠 Tech Stack
 
-- 💻 Software development
-- 🗄 Database design
-- 🤖 Artificial intelligence
-- 🖥 Desktop applications
-- 🌐 Web development
-- 📚 Educational software
+### Languages
 
----
+<p>
 
-## 🎮 Featured Project
+<img src="https://skillicons.dev/icons?i=cs,js,html,css"/>
 
-### [SpeedTypingNovel](https://github.com/ViktoriaKhmara/SpeedTypingNovel)
+</p>
 
-An **AI-powered educational visual novel** for learning touch typing.
+### Frameworks & Engines
 
-The project combines:
+<p>
 
-- story-driven gameplay;
-- typing challenges;
-- local AI feedback via Ollama;
-- SQLite database;
-- statistics and progress tracking;
-- chapter unlocking system.
+<img src="https://skillicons.dev/icons?i=dotnet"/>
 
-<p align="center">
-  <a href="https://github.com/ViktoriaKhmara/SpeedTypingNovel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViktoriaKhmara&repo=SpeedTypingNovel&theme=github_dark&hide_border=true" alt="SpeedTypingNovel Repository">
-  </a>
+</p>
+
+### Databases
+
+<p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktoriaKhmara&show_icons=true&theme=github_dark&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriaKhmara&layout=compact&theme=github_dark&hide_border=true" height="165">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViktoriaKhmara&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriaKhmara&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ViktoriaKhmara&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 Activity
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktoriaKhmara&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktoriaKhmara&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Contacts
+# 📌 Goals for 2026
+
+- Build production-ready backend applications
+- Improve software architecture skills
+- Learn ASP.NET Core more deeply
+- Explore AI integration in desktop applications
+- Publish new open-source projects
+
+---
+
+# 📫 Contact
 
 <p align="center">
-  <a href="https://t.me/Toryanna">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://vk.ru/victoriakhmara">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
-  </a>
+
+<a href="https://t.me/Toryanna">
+<img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram">
+</a>
+
+<a href="mailto:victoriakhmara2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile 😊
+
+⭐ Thanks for visiting my profile!
+
 </p>
