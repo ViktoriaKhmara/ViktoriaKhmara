@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Victoria 👋
 
-<!--
-**ViktoriaKhmara/ViktoriaKhmara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer from Saint Petersburg.
 
-Here are some ideas to get you started:
+🎓 Graduate project:
+- SpeedTypingNovel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technologies
+
+- C#
+- GDScript
+- Godot
+- SQL
+- SQLite
+- HTML
+- CSS
+- JavaScript
+- Git
+
+📌 Featured project
+
+🎮 SpeedTypingNovel
+
+AI-powered educational visual novel for learning touch typing.
+
+➡️ https://github.com/ViktoriaKhmara/SpeedTypingNovel
