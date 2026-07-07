@@ -2,165 +2,128 @@
   <img src="assets/profile-banner.png" width="100%" alt="Profile Banner">
 </p>
 
-<h1 align="center">
-Hi, I'm Victoria Khmara 👋
-</h1>
+<h1 align="center">Hi, I'm Victoria Khmara 👋</h1>
 
 <p align="center">
-Software Developer • Backend • AI • Desktop Applications
+Backend • AI • Database Development • Desktop Applications
 </p>
 
 <p align="center">
-Building educational software and exploring artificial intelligence.
+Building practical software solutions and exploring artificial intelligence.
 </p>
 
 <p align="center">
-<a href="https://t.me/Toryanna">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-<a href="https://vk.ru/victoriakhmara">
-<img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ViktoriaKhmara&style=for-the-badge&color=blue">
+  <a href="https://t.me/Toryanna">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:victoriakhmara2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ViktoriaKhmara&style=for-the-badge&color=blue" alt="Profile views">
 </p>
 
 ---
 
-# 💻 About
+## 💻 About
 
-I'm a software developer passionate about creating applications that combine clean architecture, modern technologies and intuitive user experience.
+I'm a software developer focused on creating practical, user-friendly applications with clean structure and reliable data processing.
 
-Currently, my primary interests include:
+My main areas of interest:
 
-- Backend Development
-- Artificial Intelligence
-- Desktop Applications
-- Database Design
-- Educational Software
+- Backend development
+- Artificial intelligence
+- Database design
+- Desktop applications
+- Educational software
+- Web development
 
 ---
 
-# 🚀 Current Project
+## 🚀 Featured Project
 
-## 🎮 SpeedTypingNovel
+### 🎮 [SpeedTypingNovel](https://github.com/ViktoriaKhmara/SpeedTypingNovel)
 
-AI-powered educational visual novel for learning touch typing.
+An AI-powered educational visual novel for learning touch typing.
 
-### Main features
+**Highlights:**
 
-- Story-driven gameplay
-- AI-generated educational feedback
+- Interactive story-driven gameplay
+- Local AI integration via Ollama
 - SQLite database
-- Local LLM via Ollama
-- Statistics & Progress Tracking
-- Chapter Unlock System
+- Player statistics and progress tracking
+- Chapter unlocking system
+- Modular Godot project architecture
 
 <p align="center">
-
-<a href="https://github.com/ViktoriaKhmara/SpeedTypingNovel">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ViktoriaKhmara&repo=SpeedTypingNovel&theme=github_dark&hide_border=true">
-
-</a>
-
+  <a href="https://github.com/ViktoriaKhmara/SpeedTypingNovel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViktoriaKhmara&repo=SpeedTypingNovel&theme=github_dark&hide_border=true" alt="SpeedTypingNovel Repository">
+  </a>
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cs,js,html,css"/>
-
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css" alt="Languages">
 </p>
 
-### Frameworks & Engines
+### Frameworks & Platforms
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" alt="Frameworks and Platforms">
 </p>
 
 ### Databases
 
 <p>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite"/>
-
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="Databases">
 </p>
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Tools">
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViktoriaKhmara&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriaKhmara&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ViktoriaKhmara&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriaKhmara&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ViktoriaKhmara&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=ViktoriaKhmara&theme=github-dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktoriaKhmara&theme=github-dark&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktoriaKhmara&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 ---
 
-# 📌 Goals for 2026
-
-- Build production-ready backend applications
-- Improve software architecture skills
-- Learn ASP.NET Core more deeply
-- Explore AI integration in desktop applications
-- Publish new open-source projects
-
----
-
-# 📫 Contact
+## 📫 Contact
 
 <p align="center">
-
-<a href="https://t.me/Toryanna">
-<img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram">
-</a>
-
-<a href="mailto:victoriakhmara2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+  <a href="https://t.me/Toryanna">
+    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:victoriakhmara2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile!
-
+  ⭐ Thanks for visiting my profile!
 </p>
