@@ -1,26 +1,15 @@
-# Hi, I'm Victoria 👋
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Profile Banner" width="100%">
+</p>
 
-Junior Software Developer from Saint Petersburg.
+<h1 align="center">
+Hi, I'm Victoria Khmara👋
+</h1>
 
-🎓 Graduate project:
-- SpeedTypingNovel
+<p align="center">
+Junior Software Developer • C# • .NET • SQL • AI
+</p>
 
-💻 Technologies
-
-- C#
-- GDScript
-- Godot
-- SQL
-- SQLite
-- HTML
-- CSS
-- JavaScript
-- Git
-
-📌 Featured project
-
-🎮 SpeedTypingNovel
-
-AI-powered educational visual novel for learning touch typing.
-
-➡️ https://github.com/ViktoriaKhmara/SpeedTypingNovel
+<p align="center">
+Building educational software and exploring artificial intelligence.
+</p>
