@@ -39,7 +39,7 @@ My main areas of interest:
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🎮 [SpeedTypingNovel](https://github.com/ViktoriaKhmara/SpeedTypingNovel)
 
@@ -60,20 +60,83 @@ An AI-powered educational visual novel for learning touch typing.
   </a>
 </p>
 
+### 🏥 [KlinikaWebApp](https://github.com/ViktoriaKhmara/KlinikaWebApp)
+
+An ASP.NET Core MVC web application for managing a medical clinic.
+
+**Highlights:**
+
+- ASP.NET Core MVC architecture
+- Entity Framework Core
+- SQL Server integration
+- User authentication
+- CRUD operations
+- Medical clinic management logic
+
+<p align="center">
+  <a href="https://github.com/ViktoriaKhmara/KlinikaWebApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViktoriaKhmara&repo=KlinikaWebApp&theme=github_dark&hide_border=true" alt="KlinikaWebApp Repository">
+  </a>
+</p>
+
+### 🌐 [RostSite](https://github.com/ViktoriaKhmara/RostSite)
+
+A Node.js and Express web application with SQL Server integration and external service support.
+
+**Highlights:**
+
+- Node.js and Express backend
+- SQL Server database integration
+- File upload support
+- Logging system
+- Email notifications
+- Telegram bot integration
+
+<p align="center">
+  <a href="https://github.com/ViktoriaKhmara/RostSite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViktoriaKhmara&repo=RostSite&theme=github_dark&hide_border=true" alt="RostSite Repository">
+  </a>
+</p>
+
+### 🖥 [TechnologiesApp](https://github.com/ViktoriaKhmara/TechnologiesApp)
+
+A C# Windows Forms desktop application for managing products, partners and partner requests.
+
+**Highlights:**
+
+- Windows Forms desktop application
+- SQL Server database integration
+- ADO.NET
+- Authentication and role-based access
+- CRUD operations
+- Search, filtering and sorting
+
+<p align="center">
+  <a href="https://github.com/ViktoriaKhmara/TechnologiesApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViktoriaKhmara&repo=TechnologiesApp&theme=github_dark&hide_border=true" alt="TechnologiesApp Repository">
+  </a>
+</p>
+
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=cs,js" alt="Programming Languages">
+</p>
+
+### Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Web Technologies">
 </p>
 
 ### Frameworks & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" alt="Frameworks and Platforms">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" alt="Frameworks and Platforms">
 </p>
 
 ### Databases
@@ -85,7 +148,7 @@ An AI-powered educational visual novel for learning touch typing.
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,godot" alt="Tools">
 </p>
 
 ---
